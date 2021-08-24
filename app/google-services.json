@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "REPLACE_THIS",
+    "firebase_url": "REPLACE_THIS",
+    "project_id": "REPLACE_THIS",
+    "storage_bucket": "REPLACE_THIS"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "REPLACE_THIS",
+        "android_client_info": {
+          "package_name": "REPLACE_THIS"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "REPLACE_THIS",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "REPLACE_THIS"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "REPLACE_THIS",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
